@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi, I'm Luiz 👋
 
+I'm an SRE how loves to automate things and find ways to implement the best solutions.
+
+## 🚀 About me
+- 💼 5 year of experience with DevOps and SRE, focos on linux, containers solutions and observability.
+- 🔭 I'm currently pursuing my graduate studies as DevOps and Architecture Cloud at [FIAP](https://postech.fiap.com.br/curso/devops-e-arquitetura-cloud/).
+- 🧐 Areas of interest: Cloud Architecture, Network security, Open Source solutions.
+
+## 📬 How to reach me
+- Connect with me on [Linkedin](https://www.linkedin.com/in/luiz-felipe-cibulski-4450841b4/)
 <!--
 **LuizFelipeCibulski/LuizFelipeCibulski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
